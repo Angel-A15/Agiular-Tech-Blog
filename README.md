@@ -14,3 +14,6 @@ The construction and functionality of my application should include:
 For my application to work properly I implamented:
   * Api routes for GET, DELETE, POST, PUT for commets/posts, cookies, and log-in/log-out
   * Handlebars, authentication addition to api routes, and partials to display features only when signed in
+
+## Preview of Page
+![Web capture_19-10-2022_23354_localhost](https://user-images.githubusercontent.com/106582411/196853896-40121664-10de-40c3-be2a-3d5ff2f8cd4a.jpeg)
